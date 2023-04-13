@@ -26,7 +26,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 34px, 0px;
 }
 .divescola{
-    width: 35%;
+    width: 55%;
 }
