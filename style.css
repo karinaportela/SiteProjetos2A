@@ -5,17 +5,17 @@
 .cabeçalho{
     background-color: #FFB84C;
     display: flex;
-    justify-content: space-around;
+    justify-content:space-around;
 }
 
 .cabeçalho-imagem{
-    width: 15%;
+    width: 18%;
 }
 
 .cabeçalho-lista-item{
     display: inline-block;
-    margin: 70px 20px;
-    font-size: 26px;
+    margin: 110px 20px 0px;
+    font-size: 24px;
 }
 .imagemprogramação{
     width: 35%;
@@ -27,6 +27,7 @@
     justify-content: center;
     align-items: center;
     padding: 45px 0px;
+    font-size: 17px;
 }
 .divescola{
     width: 40%;
@@ -35,6 +36,18 @@
     padding: 24px 0;
 }
 .divtítulocabeçalho{
-    padding: 24px 0;
+    padding: 35px 50px;
+    font-size: 18px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.imagemtrabalhoevelin{
+    width: 300px;
+}
+.trabalhosdosalunostítulo{
     font-size: 24px;
+}
+.trabalho1div{
+    text-align: center;
 }
