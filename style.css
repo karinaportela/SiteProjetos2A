@@ -42,12 +42,32 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.imagemtrabalhoevelin{
-    width: 300px;
+.imagemtrabalhos{
+    width: 250px;
+    height: 175px;
 }
 .trabalhosdosalunostítulo{
     font-size: 24px;
-}
-.trabalho1div{
     text-align: center;
+    padding: 40px 0px;
+}
+.trabalhodiv{
+    text-align: center;
+}
+.todosostrabalhos{
+    display: grid;
+    grid-template-columns: 23% 23% 23% 23%;
+    grid-gap: 35px;
+    padding: 0px 0px 35px 0px;
+}
+.rodapé{
+    background-color: black;
+    text-align: center;
+}
+.imagemrodapé{
+    height: 70px;
+    padding: 12px 12px;
+}
+.trabalhosdosalunos{
+    background-image: linear-gradient(#F5F5F5,#FFB84C);;
 }
